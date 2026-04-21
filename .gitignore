@@ -1,0 +1,15 @@
+# binários
+*.exe
+*.out
+
+# dependências
+/vendor/
+
+# arquivos de ambiente
+.env
+
+# VSCode
+.vscode/
+
+# logs
+*.log
